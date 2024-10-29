@@ -1,1 +1,0 @@
-This is the content of file1 in subfolder1 of folder1. hello
